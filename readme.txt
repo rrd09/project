@@ -1,2 +1,1 @@
-This is my example Git repository.
-Veni, vidi, vici.
+This is an example Git repository.
