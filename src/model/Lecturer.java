@@ -1,0 +1,7 @@
+class Lecturer {
+
+    public Lecturer {
+        
+    }
+
+}
