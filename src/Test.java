@@ -1,7 +1,11 @@
 class Test {
 
    public static void main(String[] args) {
-      System.out.println("Hi Git!");
+       SwingUtilities.invokeLater(new Runnable() {
+           public void run() {
+               view.GUI gui = new view.GUI();
+           }
+       });
    }
 
 }
