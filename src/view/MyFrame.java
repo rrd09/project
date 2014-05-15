@@ -1,6 +1,6 @@
-class Student {
+class MyFrame extends JFrame {
     
-    public Student {
+    public MyFrame {
         
     }
     

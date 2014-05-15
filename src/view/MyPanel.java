@@ -1,6 +1,6 @@
-class Student {
+class MyPanel extends JPanel {
     
-    public Student {
+    public MyPanel {
         
     }
     
