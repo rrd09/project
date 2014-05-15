@@ -1,7 +1,8 @@
 class Test {
 
    public static void main(String[] args) {
-      System.out.println("Hi Git!");
+       model.SeniorLecturer lecturer = new model.SeniorLecturer("Adam");
+       System.out.println("Hi " + lecturer.getName() + "!");
    }
 
 }
