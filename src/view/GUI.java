@@ -1,6 +1,6 @@
-class Student {
+class GUI {
     
-    public Student {
+    public GUI {
         
     }
     
